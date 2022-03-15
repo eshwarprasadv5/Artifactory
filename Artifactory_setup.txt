@@ -1,3 +1,5 @@
+https://github.com/ravdy/DevOps/blob/master/Artifactory/Setup_Artifactory.md
+
 # Artifacotry Setup
 An artifact repository manages your end-to-end artifact lifecycle and supports different software package management systems while providing consistency to your CI/CD workflow. An artifact repository is both a source for artifacts needed for a build and a target to deploy artifacts generated in the build process.
 
